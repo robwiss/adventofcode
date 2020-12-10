@@ -37,6 +37,6 @@ def part_two():
 
 if __name__ == '__main__':
     print('part one:')
-    print(part_one())
+    part_one()
     print('part two:')
     part_two()
